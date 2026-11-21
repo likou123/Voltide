@@ -32,6 +32,7 @@ namespace Voltide.Core
             _providers.Add(new EweadnProvider());
             _providers.Add(new EweadnA5ProProvider());
             _providers.Add(new DareuA950MouseProvider());
+            _providers.Add(new DareuA950Receiver1074Provider());
             _providers.Add(new MchoseV9HeadsetProvider());
             _providers.Add(new MchoseK7MouseProvider());
             _providers.Add(new MchoseA5MouseProvider());
